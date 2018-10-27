@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TourismApp",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "edu.umss.fcyt.tourismApp.TourismApp",
+            "args": "",
+            "projectName": "TourismRestAPI"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - TourismApp",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "edu.umss.fcyt.TourismRestAPI.TourismApp",
+            "args": "",
+            "projectName": "TourismRestAPI"
+        }
+    ]
+}
